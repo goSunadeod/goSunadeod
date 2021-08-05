@@ -1,7 +1,7 @@
 ### Hi there, I'm sundae 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=goSunadeod.goSunadeod)
 
-Now I'm working in shanghai as a FE.
+又菜又混
 
 **Languages and Tools:**  
 
